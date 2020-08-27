@@ -1,6 +1,5 @@
-# hyperblog:tw-1f192:
+# hyperblog
 un blog increible para el curso de git y github
-
 
 >El curso de git y github es lo que me hacía falta para potenciar mi perfil y lanzarme a la industria con todo.
 
@@ -10,7 +9,7 @@ README.md es una excelente práctica en tus proyectos, md significa Markdown, qu
 
 
 En este curso vemos de todo:
-***Todos los comandos de Git
+Todos los comandos de Git
 *EL flujo de trabajo en Github
 *EL verdadero amor por las buenas prácticas
-*Trucos muy locos del profesor**
+*Trucos muy locos del profesor

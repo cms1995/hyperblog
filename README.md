@@ -8,9 +8,9 @@ README.md es una excelente práctica en tus proyectos, md significa Markdown, qu
 
 
 
-## En este curso vemos de todo:
+En este curso vemos de todo:
 Todos los comandos de Git
 *EL flujo de trabajo en Github
 *EL verdadero amor por las buenas prácticas
 *Trucos muy locos del profesor
-* Creado por el increíble Platzi Team
+*Incluye ejemplos en Windows, Linux y Mac

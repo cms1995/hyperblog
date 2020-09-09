@@ -14,3 +14,4 @@ Todos los comandos de Git
 *EL verdadero amor por las buenas prácticas
 *Trucos muy locos del profesor
 *Incluye ejemplos en Windows, Linux y Mac
+*Disponible para todas las edades
